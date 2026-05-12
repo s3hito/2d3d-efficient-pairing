@@ -1,0 +1,4 @@
+- +experiment=test_demo
+- input.data_dirs=/home/hiro/OnePose/data/demo/test_coffee test_coffee-test
+- input.sfm_model_dirs=/home/hiro/OnePose/data/demo/test_coffee/sfm_model
+- use_tracking=True

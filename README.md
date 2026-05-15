@@ -1,1 +1,2 @@
 # 2d3d-efficient-pairing
+Cieľom práce je navrhnúť a implementovať efektívny pipeline na párovanie lokálnych príznakov medzi 2D obrazmi a 3D bodovými mračnami bez potreby CAD modelov. Práca kombinuje moderné metódy počítačového videnia — segmentáciu pomocou SAM3, rekonštrukciu 3D priestoru pomocou COLMAP (Structure from Motion) a odhad polohy objektov pomocou OnePose. Výsledný systém by mal byť nasaditeľný v reálnom čase aj na bežnom CPU hardvéri.

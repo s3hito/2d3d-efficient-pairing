@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc30533-6c98-470a-950f-b5f40abf9de5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.hydra/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hydra/config.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hydra/hydra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hydra/hydra.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hydra/overrides.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hydra/overrides.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OnePose.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OnePose.iml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO.md:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/onepose-github-teaser.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/onepose-github-teaser.gif:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/config.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/object_detector.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/object_detector.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_GATsSPG.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_GATsSPG.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_demo.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_demo.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_sample.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/test_sample.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/train_GATsSPG.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/experiment/train_GATsSPG.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/merge_anno.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/merge_anno.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_demo.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_demo.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_sample.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_sample.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_test.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_test.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_train.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_train.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_val.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/preprocess/sfm_spp_spg_val.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/checkpoints/onepose/GATsSPG.ckpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/checkpoints/onepose/GATsSPG.ckpt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/extractors/SuperPoint/superpoint_v1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/extractors/SuperPoint/superpoint_v1.pth:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/matchers/SuperGlue/superglue_outdoor.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models/matchers/SuperGlue/superglue_outdoor.pth:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/.DS_Store:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/ARposes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/ARposes.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Box.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Frames.m4v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Frames.m4v:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Frames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Frames.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Snapshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-annotate/Snapshot.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/ARposes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/ARposes.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Box.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Box.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Frames.m4v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Frames.m4v:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Frames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Frames.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Initialization.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/test_coffee/test_coffee-test/Initialization.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yaml:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_matching_object_detector.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_matching_object_detector.log:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_matching_object_detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_matching_object_detector.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.log:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_demo.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_demo.log:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_demo.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse_scanned_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse_scanned_data.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.log:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_inference_solo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_inference_solo.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_inference_with_wis3d.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_inference_with_wis3d.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_preprocess_solo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_preprocess_solo.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/demo_pipeline.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/demo_pipeline.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/parse_full_img.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/parse_full_img.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prepare_2D_matching_resources.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prepare_2D_matching_resources.sh:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/callbacks/custom_callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/callbacks/custom_callbacks.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/callbacks/wandb_callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/callbacks/wandb_callbacks.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datamodules/GATs_spg_datamodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datamodules/GATs_spg_datamodule.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datasets/GATs_spg_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datasets/GATs_spg_dataset.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datasets/normalized_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datasets/normalized_dataset.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluators/cmd_evaluator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluators/cmd_evaluator.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local_feature_2D_detector/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local_feature_2D_detector/__init__.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local_feature_2D_detector/local_feature_2D_detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/local_feature_2D_detector/local_feature_2D_detector.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/losses/focal_loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/losses/focal_loss.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_architectures/GATs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_architectures/GATs.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_architectures/GATs_SuperGlue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_architectures/GATs_SuperGlue.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_lightning_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/GATsSPG_lightning_model.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/extractors/SuperPoint/superpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/extractors/SuperPoint/superpoint.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/matchers/SuperGlue/superglue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/matchers/SuperGlue/superglue.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/matchers/nn/nearest_neighbour.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/matchers/nn/nearest_neighbour.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/extract_features.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/extract_features.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/generate_empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/generate_empty.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/global_ba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/global_ba.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/match_features.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/match_features.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/pairs_from_poses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/pairs_from_poses.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/feature_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/feature_process.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/filter_points.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/filter_points.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/filter_tkl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/postprocess/filter_tkl.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/triangulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sfm/triangulation.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/__init__.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/ba_tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/ba_tracker.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/tracking_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tracker/tracking_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/colmap/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/colmap/database.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/colmap/read_write_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/colmap/read_write_model.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/comm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/comm.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/data_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/data_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/eval_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/eval_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/model_io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/model_io.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/path_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/path_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/template_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/template_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/vis_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/vis_utils.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure.txt:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/track_kpt.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/track_kpt.mp4:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video2img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video2img.py:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sam3" beforeDir="false" afterPath="$PROJECT_DIR$/../sam3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "s3hito"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/s3hito/2d3d-efficient-pairing.git",
+    "accountId": "83a049c4-7b58-4c5d-86e0-bf0f1a9b386d"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GXnU1pZj8do8fS3XujNSIKDVbJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/hiro/2d3d-efficient-pairing/onepose",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="onepose" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.71" />
+        <option value="bundled-python-sdk-40c92900da86-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.71" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc30533-6c98-470a-950f-b5f40abf9de5" name="Changes" comment="" />
+      <created>1784126793840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784126793840</updated>
+      <workItem from="1784126795001" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
